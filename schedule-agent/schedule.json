@@ -1,0 +1,429 @@
+{
+    "weeklySchedule": {
+        "monday": [
+            {
+                "time": "08:00",
+                "status": "occupied",
+                "event": "Meeting with None"
+            },
+            {
+                "time": "08:30",
+                "status": "occupied",
+                "event": "Meeting with None"
+            },
+            {
+                "time": "09:00",
+                "status": "occupied",
+                "event": "Team Meeting"
+            },
+            {
+                "time": "09:30",
+                "status": "occupied",
+                "event": "Team Meeting"
+            },
+            {
+                "time": "10:00",
+                "status": "occupied",
+                "event": "Meeting with None"
+            },
+            {
+                "time": "10:30",
+                "status": "occupied",
+                "event": "Meeting with None"
+            },
+            {
+                "time": "11:00",
+                "status": "occupied",
+                "event": "Client Call"
+            },
+            {
+                "time": "11:30",
+                "status": "occupied",
+                "event": "Client Call"
+            },
+            {
+                "time": "12:00",
+                "status": "occupied",
+                "event": "Meeting with None"
+            },
+            {
+                "time": "12:30",
+                "status": "occupied",
+                "event": "Meeting with David"
+            },
+            {
+                "time": "13:00",
+                "status": "occupied",
+                "event": "Lunch"
+            },
+            {
+                "time": "13:30",
+                "status": "occupied",
+                "event": "Lunch"
+            },
+            {
+                "time": "14:00",
+                "status": "free"
+            },
+            {
+                "time": "14:30",
+                "status": "free"
+            },
+            {
+                "time": "15:00",
+                "status": "occupied",
+                "event": "Project Review"
+            },
+            {
+                "time": "15:30",
+                "status": "occupied",
+                "event": "Project Review"
+            },
+            {
+                "time": "16:00",
+                "status": "free"
+            },
+            {
+                "time": "16:30",
+                "status": "free"
+            }
+        ],
+        "tuesday": [
+            {
+                "time": "08:00",
+                "status": "occupied",
+                "event": "Meeting with steve"
+            },
+            {
+                "time": "08:30",
+                "status": "free"
+            },
+            {
+                "time": "09:00",
+                "status": "occupied",
+                "event": "Strategy Session"
+            },
+            {
+                "time": "09:30",
+                "status": "occupied",
+                "event": "Strategy Session"
+            },
+            {
+                "time": "10:00",
+                "status": "occupied",
+                "event": "Strategy Session"
+            },
+            {
+                "time": "10:30",
+                "status": "occupied",
+                "event": "Strategy Session"
+            },
+            {
+                "time": "11:00",
+                "status": "occupied",
+                "event": "Department Sync"
+            },
+            {
+                "time": "11:30",
+                "status": "occupied",
+                "event": "Department Sync"
+            },
+            {
+                "time": "12:00",
+                "status": "free"
+            },
+            {
+                "time": "12:30",
+                "status": "free"
+            },
+            {
+                "time": "13:00",
+                "status": "occupied",
+                "event": "Budget Review"
+            },
+            {
+                "time": "13:30",
+                "status": "occupied",
+                "event": "Budget Review"
+            },
+            {
+                "time": "14:00",
+                "status": "free"
+            },
+            {
+                "time": "14:30",
+                "status": "free"
+            },
+            {
+                "time": "15:00",
+                "status": "occupied",
+                "event": "Training"
+            },
+            {
+                "time": "15:30",
+                "status": "occupied",
+                "event": "Training"
+            },
+            {
+                "time": "16:00",
+                "status": "free"
+            },
+            {
+                "time": "16:30",
+                "status": "free"
+            }
+        ],
+        "wednesday": [
+            {
+                "time": "08:00",
+                "status": "free"
+            },
+            {
+                "time": "08:30",
+                "status": "free"
+            },
+            {
+                "time": "09:00",
+                "status": "occupied",
+                "event": "Executive Meeting"
+            },
+            {
+                "time": "09:30",
+                "status": "occupied",
+                "event": "Executive Meeting"
+            },
+            {
+                "time": "10:00",
+                "status": "free"
+            },
+            {
+                "time": "10:30",
+                "status": "free"
+            },
+            {
+                "time": "11:00",
+                "status": "occupied",
+                "event": "Product Presentation"
+            },
+            {
+                "time": "11:30",
+                "status": "occupied",
+                "event": "Product Presentation"
+            },
+            {
+                "time": "12:00",
+                "status": "free"
+            },
+            {
+                "time": "12:30",
+                "status": "free"
+            },
+            {
+                "time": "13:00",
+                "status": "occupied",
+                "event": "Lunch"
+            },
+            {
+                "time": "13:30",
+                "status": "occupied",
+                "event": "Lunch"
+            },
+            {
+                "time": "14:00",
+                "status": "free"
+            },
+            {
+                "time": "14:30",
+                "status": "free"
+            },
+            {
+                "time": "15:00",
+                "status": "occupied",
+                "event": "Client Meeting"
+            },
+            {
+                "time": "15:30",
+                "status": "occupied",
+                "event": "Client Meeting"
+            },
+            {
+                "time": "16:00",
+                "status": "free"
+            },
+            {
+                "time": "16:30",
+                "status": "free"
+            }
+        ],
+        "thursday": [
+            {
+                "time": "08:00",
+                "status": "free"
+            },
+            {
+                "time": "08:30",
+                "status": "free"
+            },
+            {
+                "time": "09:00",
+                "status": "occupied",
+                "event": "Performance Reviews"
+            },
+            {
+                "time": "09:30",
+                "status": "occupied",
+                "event": "Performance Reviews"
+            },
+            {
+                "time": "10:00",
+                "status": "occupied",
+                "event": "Meeting with None"
+            },
+            {
+                "time": "10:30",
+                "status": "free"
+            },
+            {
+                "time": "11:00",
+                "status": "occupied",
+                "event": "Marketing Review"
+            },
+            {
+                "time": "11:30",
+                "status": "occupied",
+                "event": "Marketing Review"
+            },
+            {
+                "time": "12:00",
+                "status": "occupied",
+                "event": "Meeting with None"
+            },
+            {
+                "time": "12:30",
+                "status": "free"
+            },
+            {
+                "time": "13:00",
+                "status": "occupied",
+                "event": "Lunch"
+            },
+            {
+                "time": "13:30",
+                "status": "occupied",
+                "event": "Lunch"
+            },
+            {
+                "time": "14:00",
+                "status": "free"
+            },
+            {
+                "time": "14:30",
+                "status": "free"
+            },
+            {
+                "time": "15:00",
+                "status": "occupied",
+                "event": "Product Workshop"
+            },
+            {
+                "time": "15:30",
+                "status": "occupied",
+                "event": "Product Workshop"
+            },
+            {
+                "time": "16:00",
+                "status": "free"
+            },
+            {
+                "time": "16:30",
+                "status": "free"
+            }
+        ],
+        "friday": [
+            {
+                "time": "08:00",
+                "status": "free"
+            },
+            {
+                "time": "08:30",
+                "status": "free"
+            },
+            {
+                "time": "09:00",
+                "status": "occupied",
+                "event": "Weekly Recap"
+            },
+            {
+                "time": "09:30",
+                "status": "occupied",
+                "event": "Weekly Recap"
+            },
+            {
+                "time": "10:00",
+                "status": "free"
+            },
+            {
+                "time": "10:30",
+                "status": "occupied",
+                "event": "Meeting with Jim"
+            },
+            {
+                "time": "11:00",
+                "status": "occupied",
+                "event": "Investor Update"
+            },
+            {
+                "time": "11:30",
+                "status": "occupied",
+                "event": "Investor Update"
+            },
+            {
+                "time": "12:00",
+                "status": "free"
+            },
+            {
+                "time": "12:30",
+                "status": "free"
+            },
+            {
+                "time": "13:00",
+                "status": "occupied",
+                "event": "Team Lunch"
+            },
+            {
+                "time": "13:30",
+                "status": "occupied",
+                "event": "Team Lunch"
+            },
+            {
+                "time": "14:00",
+                "status": "free"
+            },
+            {
+                "time": "14:30",
+                "status": "occupied",
+                "event": "Meeting with None"
+            },
+            {
+                "time": "15:00",
+                "status": "occupied",
+                "event": "Strategic Planning"
+            },
+            {
+                "time": "15:30",
+                "status": "occupied",
+                "event": "Strategic Planning"
+            },
+            {
+                "time": "16:00",
+                "status": "occupied",
+                "event": "Meeting with Mr. Penis Fat Cock"
+            },
+            {
+                "time": "16:30",
+                "status": "occupied",
+                "event": "Meeting with jeff"
+            }
+        ]
+    }
+}
