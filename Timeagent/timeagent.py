@@ -83,7 +83,7 @@ def main():
     Continuously prompts for user input and provides responses until the user types 'quit'.
     """
     # Replace with your actual API key
-    api_key = "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"
+    api_key = "m8AAA"
     bot = ClaudeTimeBot(api_key)
     
     print("Welcome to the Time Bot! Type 'quit' to exit.")
